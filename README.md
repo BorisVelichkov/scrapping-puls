@@ -17,8 +17,8 @@ Pages that were scrapped are:
     ```
 2. Process the data from the spider
     ```
-    >>> python process_spider_result.py --input_file "puls_spider_results.json"\
-    OUTPUT: "processed_puls_spider_results.json"
+    >>> python process_spider_result.py --input_file "puls_spider_results.json"
     ```
+    OUTPUT: "processed_puls_spider_results.json"
 
 ENJOY!
